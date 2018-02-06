@@ -10,7 +10,6 @@ namespace Calculator.Test.Unit
     public class CalculatorUnitTests
     {
         private Calculator _uut;
-        Console.Writeline();
 
         [SetUp]
         public void Setup()
